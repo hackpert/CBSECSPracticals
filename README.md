@@ -1,6 +1,6 @@
 # CBSECSPracticals
-Repo containing solutions of practical questions for Computer Science (CBSE) 
+Repo containing solutions to practical questions for Class XII Computer Science (CBSE) 
 
 Note: All files are IPython Notebooks. Install IPython from http://ipython.org to use them
 
-P.S. These are completely irrelevant, trivial, and pointless exercises mandated by the Central Board of Secondary Education for the Python programming language. Do not bother unless you need to submit your files.
+P.S. Most of these are completely impractical, trivial, and pointless exercises mandated by the Central Board of Secondary Education for the Python programming language. Do not bother unless you need to submit your files.
